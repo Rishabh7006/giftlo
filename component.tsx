@@ -1,0 +1,1 @@
+whatsappNumber: "9986461414", // <-- CHANGE THIS TO YOUR WHATSAPP NUMBER
